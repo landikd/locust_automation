@@ -82,3 +82,7 @@ The Locust UI will show real-time results, including the number of requests per 
 For further improvements or inspiration, check out the Awesome Locust list:
 
 [Awesome Locust](https://aliesbelik.github.io/awesome-locust/): A collection of tools, libraries, and resources for building automated frameworks based on Locust.
+
+To perform Loadrunner like transactions use transaction manager from locust_plugins:
+
+[Transaction manager](https://github.com/SvenskaSpel/locust-plugins/blob/master/examples/transaction_example.py)
