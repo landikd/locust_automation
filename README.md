@@ -81,4 +81,4 @@ The Locust UI will show real-time results, including the number of requests per 
 ### Additional Resources
 For further improvements or inspiration, check out the Awesome Locust list:
 
-[Awesome Locust]((https://aliesbelik.github.io/awesome-locust/)): A collection of tools, libraries, and resources for building automated frameworks based on Locust.
+[Awesome Locust](https://aliesbelik.github.io/awesome-locust/): A collection of tools, libraries, and resources for building automated frameworks based on Locust.
