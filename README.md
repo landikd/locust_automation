@@ -33,9 +33,7 @@ To install the required libraries, use the provided **`requirements.txt`** file.
 
 2. Install the dependencies with the following command:
 
-    ```bash
     pip install -r requirements.txt
-    ```
 
 This will install all necessary dependencies, including **Locust**, **har2locust**, and other required Python packages.
 
