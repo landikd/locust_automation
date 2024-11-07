@@ -73,9 +73,9 @@ Now, open the generated **`locustfile.py`**, adjust it with my **`locustfile.py`
 Run the Locust load test with the following command:
 
     ```bash
-    Copy code
     locust -f locustfile.py
     ```
+    
 Navigate to http://localhost:8089 in your browser to start the test.
 
 ### Step 5: Analyze the Results
