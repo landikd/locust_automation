@@ -70,9 +70,8 @@ Now, open the generated **`locustfile.py`**, adjust it with my **`locustfile.py`
 ### Step 4: Running Locust
 Run the Locust load test with the following command:
 
-    ```bash
     locust -f locustfile.py
-    ```
+    
     
 Navigate to http://localhost:8089 in your browser to start the test.
 
