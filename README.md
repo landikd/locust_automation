@@ -7,7 +7,7 @@ This project is an automation framework built using **Locust** to perform load t
 The project enables you to automate web testing using Locust by following these steps:
 1. **Record user interactions**: Capture web interactions from a browser using HAR files.
 2. **Convert HAR to Locust**: Use `har2locust` to convert the recorded HAR file to a Locust test script.
-3. **Enhance the Locust file**: Use custom functions for parameterization, boundary correlation, assertions, and debugging from utils.py file.
+3. **Enhance the Locust file**: Use custom functions for parameterization, boundary correlation, assertions, and debugging from **utils.py** file.
 4. **Run load tests**: Perform load testing on the website by simulating real user behavior.
 
 ## Tools and Libraries
